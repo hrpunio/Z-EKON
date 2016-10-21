@@ -1,0 +1,36 @@
+47 Stanów USA 1960
+-----------------------
+R Crime rate. number of offences known to the police per 1000000
+  populatrion.
+
+Age Age distribution: number of males aged 14-24 per 1000 of total
+  state population.
+
+S Binary variable distinguishing southern states ($S=1$) from the rest.
+
+Ed Educational level: mean number of years of schooling$*10$ of the
+  population 25 years old and over.
+
+Ex0 Police expenditure: per capita expenditure on police protection
+  by state and local government in 1960.
+
+Ex1 As Ex0, but in 1959.
+
+LF Labour force participation rate per 1000 civilian urban males in
+  the age group 14-24.
+
+M Number of males per 1000 females.
+
+N State population size in hundred thousands.
+
+NW Number of nonwhites per 1000.
+
+U1 Unemployment rate of urban males per 1000 in the age group 14-24.
+
+U2 Unemployment rate of urban males per 1000 in the age group 35-39.
+
+W Wealth as measured by the median value of transferable goods and
+  assets or family income (unit 10 dollars).
+
+X Income inequality: number of families per 1000 earning below one
+  half of the median income.
