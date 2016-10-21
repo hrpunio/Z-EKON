@@ -3,10 +3,10 @@
 Opis Danych
 ===========
 
-1.
 Analiza i prognozowanie szeregów czasowych. Praktyczne wprowadzenie na podstawie środowiska R
 Adam Zagdański, Artur Suchwałko, PWN, 2015 
 źródło: http://tsafbook.quantup.pl/       
+-----------
 
 airPass                 Monthly number of airline passengers on U.S. air carriers (2002.m1--2014.m2)
 
@@ -24,14 +24,13 @@ pkb                     Quarterly gross domestic product (PKB) of Poland (1995.q
 
 populacja               Population of Poland by year (1995--2012)
 
-2.
-Strona profesora Tadeusza Kufla nt gretla
-http://www.kufel.torun.pl/
+Strona profesora Tadeusza Kufla nt gretla http://www.kufel.torun.pl/
+---------
 
 mleko_und_krowy.csv     Skup mleka, poglowie krow w Polsce w latach 1960.1-2003.4
 
-3. 
 Inne dane:
+---------
 
 Przestepczosc.xls      Statystyki przestepczosci w Polsce (opis zmiennych jest w pliku)
 
