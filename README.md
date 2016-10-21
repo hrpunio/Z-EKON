@@ -3,10 +3,12 @@
 Opis Danych
 ===========
 
+Zagdański i Suchwałko
+-----------
+
 Analiza i prognozowanie szeregów czasowych. Praktyczne wprowadzenie na podstawie środowiska R
 Adam Zagdański, Artur Suchwałko, PWN, 2015 
 źródło: http://tsafbook.quantup.pl/       
------------
 
 airPass                 Monthly number of airline passengers on U.S. air carriers (2002.m1--2014.m2)
 
