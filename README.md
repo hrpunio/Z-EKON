@@ -1,5 +1,12 @@
 # Z-EKON
 
+Podstawy ekonometrii -- materiały do zajęć
+===========
+
+Oprogramowanie http://www.kufel.torun.pl/
+
+PROJEKT_Podstawy_ekonometrii_PSW.pdf -- Opis projektu zaliczeniowego
+
 Opis Danych
 ===========
 
