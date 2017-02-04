@@ -47,3 +47,20 @@ USCrime                Statystyki przestepczosci w USA (opis zmiennych w pliku U
 
 MAK_KON_08.xls         Dane do projektu zaliczeniowego (opis zmiennych jest w pliku)
 
+Projekt zaliczeniowy:
+--------------------
+część A (makroekonomiczna):
+Krótki opis znaczenia wybranej kategorii makroekonomicznej (bezrobocie, spożycie, inwestycje,
+PKB itp) na podstawie podręczników  makroekonomii max 3--4 strony
+
+część B:
+Opis dynamiki szeregu z uwzględnieniem wahań sezonowych, wyznaczenie trendu metodą 
+mechaniczną -- średnia ruchoma
+
+część C:
+Ekonometryczny model tendencji rozwojowej -- zastosować 2--3 postacie funkcji trendu (liniowa, kwadratowa, sprowadzana do liniowej), pełna diagnostyka modelu -- gretl.
+
+Porównać wyniki otrzymane w punktach B i C.
+
+Proszę wykorzystać dane ze zbioru znajdującego się w pliku MAK_KON_08.xls
+
