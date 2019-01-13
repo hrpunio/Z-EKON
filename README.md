@@ -17,11 +17,16 @@ Jedna zmienna z pliku: MAK08_dot.csv
 (opis zmiennych jest w arkuszu oryginalnym MAK_KON_08.xls)
 
 Przykłady
+---------
 
 P_Ek_PSW_egz_2016_odp.pdf (egzamin z 2016r / zrzuty ekranu z programu Gretl)
 
 ekonometria-zaliczenie-przyklad.pdf (zaliczenia z 2018r)
 
-PROJEKT_Podstawy_ekonometrii_PSW.pdf -- Opis projektu zaliczeniowego
+
+Opis projektu zaliczeniowego
+----------------------------
+
+PROJEKT_Podstawy_ekonometrii_PSW.pdf
 
 
