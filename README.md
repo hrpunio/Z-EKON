@@ -7,12 +7,19 @@ Oprogramowanie
 --------------
 
 Gretl http://www.kufel.torun.pl/
+Jak szacować model trendu liniowego:
+https://www.youtube.com/watch?v=m7QImovnv4g
 
 MFit http://www.econ.cam.ac.uk/people-files/emeritus/mhp1/Microfit/Microfit.html
+Jak szacować model trendu liniowego/potęgowego:
+https://www.youtube.com/watch?v=3uPwpAF3MjA
+
+Filmiki są tak małe że są także załączone 
 
 Dane do projektu
 -----------------
-Jedna zmienna z pliku: MAK08_dot.csv
+Jedna zmienna z pliku: MAK08_dot.csv (w formacie MFIT)
+lub z pliku MAK08_dotG.csv (w formacie Gretl)
 
 (opis zmiennych jest w arkuszu oryginalnym MAK_KON_08.xls)
 
