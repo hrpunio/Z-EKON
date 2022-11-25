@@ -1,0 +1,19 @@
+title = journal title
+
+pub = publisher
+
+society = scholarly society ?
+
+libprice = library subscription price (price/aer)
+
+pages = number of pages
+
+charpp = characters per page
+
+citestot = total number of citations (citattions/aer)
+
+date1 = year journal was founded
+
+oclc = number of library subscriptions (subs/aer)
+
+field = field description
