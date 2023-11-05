@@ -2,7 +2,10 @@
 title: "Ekonometria wykład"
 author: "Tomasz Przechlewski"
 date: "4 listopada 2023"
-output: html_document
+output:
+  html_document: default
+  pdf_document:
+   latex_engine: xelatex
 ---
 
 ```{r setup, include=FALSE}
@@ -69,7 +72,8 @@ Wzrost dzieci w klasie Stasia w okresie 2010--2020
 
 ## Etapy budowy modelu ekonometrycznego
 
--- specyfikacja zmiennych i wybór analitycznej postaci modelu,
+-- specyfikacja zmiennych i wybór analitycznej postaci modelu (najlepiej 
+     na podstawie jakieś teorii ekonomicznej a nie *ad hoc*),
 
 -- estymacja parametrów,
 
